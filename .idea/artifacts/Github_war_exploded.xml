@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Github:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Github_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Github/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Github" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
